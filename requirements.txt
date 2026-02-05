@@ -1,1 +1,1 @@
-fastapiuvicornpython-dotenvpymongorequestswikipedia# OCRpytesseractopencv-pythonPillow# Audiolibrosasoundfilespeechrecognition# Videomoviepyffmpeg-python
+fastapiuvicornpython-dotenvpymongorequestswikipediapytesseractopencv-pythonPillowlibrosasoundfilespeechrecognitionmoviepyffmpeg-pythontransformerstorch
